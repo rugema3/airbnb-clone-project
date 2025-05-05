@@ -11,3 +11,6 @@
 <li>PostgreSQL</li>
 <li>Django</li>
 </ul>
+
+<h2>Database Design</h2>
+<p>To be implemented later</p>
