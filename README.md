@@ -14,3 +14,12 @@
 
 <h2>Database Design</h2>
 <p>To be implemented later</p>
+
+<h2>Feature Breakdown</h2>
+<p>To be implemented later</p>
+
+<h2>API Security</h2>
+<p>To be implemented later</p>
+
+<h2>CI/CD Pipeline</h2>
+<p>To be implemented later</p>
